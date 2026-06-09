@@ -27,7 +27,4 @@ Hoặc dùng VS Code:
 - Collision detection đơn giản
 - Basic physics: velocity, friction, wall bounce
 
-## Gợi ý đưa vào CV
 
-Mini Billiard Pocket Game  
-A small HTML5 Canvas game where players aim and shoot a cue ball to pocket colored balls. The project includes basic collision detection, friction, scoring, restart system, and responsive UI.
