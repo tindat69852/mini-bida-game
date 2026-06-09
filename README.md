@@ -6,7 +6,7 @@ Mini game HTML5 Canvas đơn giản dùng cho portfolio/GitHub.
 
 Mở file `index.html` bằng trình duyệt.
 
-Hoặc dùng VS Code:
+Hoặc dùng VS Code :
 1. Cài extension Live Server
 2. Chuột phải `index.html`
 3. Chọn `Open with Live Server`
